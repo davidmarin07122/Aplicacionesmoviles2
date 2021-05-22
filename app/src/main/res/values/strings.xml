@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Aplicaciones moviles2</string>
+
+    <string name="descripcion1">
+                En esta aventura:
+                Visitaremos uno de los patrimonios naturales y culturales que tiene el municipio de Jardín,
+                donde podremos apreciar hermosos paisajes,
+                al llegar a la cueva del esplendor permaneceremos alrededor de 50 min,
+                en este momento tomaremos  un refrescante baño y disfrutaremos del lugar.</string>
+
+    <string name="descripcion2">
+                Su plato principal es la trucha, bien sea frita, apanada, tropical,
+                al ajillo, entre otras. Por ello contamos con tres trucheras que prestan a su vez el
+                servicio de restaurante como lo son: La Truchería en la vereda Quebrada Bonita, La Argelia y Monteverde en la vereda La Salada,
+                además de ser productoras a grandes cadenas de mercado en el departamento sacando hasta 8000 truchas al mes.</string>
+
+    <string name="descripcion3">
+                El Cable Aéreo de Jardín Antioquia es un medio de transporte y
+                de carga para los campesinos y también uno de los atractivos turísticos del municipio.</string>
+
+    <string name="descripcion4">Quieres pasar una noche maravillosa end
+        medio de la naturaleza en JARDÍN? El lago, los caballos,
+        las aves harán que tu estadía sea mágica e inolvidable!.</string>
+
+
+</resources>
